@@ -13,23 +13,23 @@ An interactive and comprehensive HR Analytics Dashboard designed to provide key 
 The dashboard is structured into four main views:
 
 ### 1. Overview Page
-- **KPI Metrics:** Track total active employees, attrition rate (16.1%), average tenure (4.56 years), average age (28.99), median salary ($71.20K), and overall satisfaction score (3.08)[cite: 1].
-- **Department Breakdown:** Visualize employee distribution and attrition across Sales, HR, and Technology departments[cite: 1].
-- **Geographic & Demographic Insights:** Analyze staff distribution by US states (CA, NY, IL) and marital status by gender[cite: 1].
-- **Dynamic Slicers:** Filter data dynamically by Year, Month, Department, State, and interactive parameters (Gender, Marital Status, Age Group, Tenure, Education Level/Field)[cite: 1].
+- **KPI Metrics:** Track total active employees, attrition rate (16.1%), average tenure (4.56 years), average age (28.99), median salary ($71.20K), and overall satisfaction score (3.08).
+- **Department Breakdown:** Visualize employee distribution and attrition across Sales, HR, and Technology departments.
+- **Geographic & Demographic Insights:** Analyze staff distribution by US states (CA, NY, IL) and marital status by gender.
+- **Dynamic Slicers:** Filter data dynamically by Year, Month, Department, State, and interactive parameters (Gender, Marital Status, Age Group, Tenure, Education Level/Field).
 
 ### 2. Attrition Insights
-- **Attrition Trends:** Monitor Year-over-Year (YoY) attrition rate changes, total left count, and hire count[cite: 2].
-- **Detailed Drill-down:** Inspect attrition rates segmented by tenure groups (e.g., 1–3 years, 3–5 years) and job roles[cite: 2].
-- **Correlation:** Compare department satisfaction scores directly against attrition rates[cite: 2].
+- **Attrition Trends:** Monitor Year-over-Year (YoY) attrition rate changes, total left count, and hire count.
+- **Detailed Drill-down:** Inspect attrition rates segmented by tenure groups (e.g., 1–3 years, 3–5 years) and job roles.
+- **Correlation:** Compare department satisfaction scores directly against attrition rates.
 
 ### 3. Employee Satisfaction & Engagement
-- **Satisfaction Scores:** View overall average satisfaction score (3.08) and identify highest (Self-Rating: 3.98) and lowest (Training Opportunities: 1.02) scoring categories[cite: 3].
-- **Multi-Factor Breakdown:** Evaluate satisfaction scores across departments, age groups, tenure, gender, and marital status[cite: 3].
+- **Satisfaction Scores:** View overall average satisfaction score (3.08) and identify highest (Self-Rating: 3.98) and lowest (Training Opportunities: 1.02) scoring categories.
+- **Multi-Factor Breakdown:** Evaluate satisfaction scores across departments, age groups, tenure, gender, and marital status.
 
 ### 4. Compensation & Salary
-- **Salary Benchmarks:** Compare median ($71.20K) and average ($112.96K) salaries across education levels, job roles, and overtime status[cite: 4].
-- **Detailed Employee Table:** View detailed salary, tenure, hire date, and role information per employee[cite: 4].
+- **Salary Benchmarks:** Compare median ($71.20K) and average ($112.96K) salaries across education levels, job roles, and overtime status.
+- **Detailed Employee Table:** View detailed salary, tenure, hire date, and role information per employee.
 
 ---
 
@@ -41,6 +41,6 @@ The dashboard is structured into four main views:
 ---
 
 ## Key Business Insights
-- **Retention Priority:** Attrition is highest among employees with 1–3 years of tenure (29.7%), highlighting an opportunity to improve onboarding and early career retention[cite: 2].
-- **Training Needs:** Training Opportunities scored the lowest in satisfaction (1.02), signaling a strong demand for learning and professional development programs[cite: 3].
-- **Compensation Trends:** Higher education levels (e.g., Doctorate/Master's) correlate strongly with higher median salaries[cite: 4].
+- **Retention Priority:** Attrition is highest among employees with 1–3 years of tenure (29.7%), highlighting an opportunity to improve onboarding and early career retention.
+- **Training Needs:** Training Opportunities scored the lowest in satisfaction (1.02), signaling a strong demand for learning and professional development programs.
+- **Compensation Trends:** Higher education levels (e.g., Doctorate/Master's) correlate strongly with higher median salaries.
