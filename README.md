@@ -34,7 +34,6 @@ The dashboard is structured into four main views:
 ---
 
 ##  Tools & Technologies
-- **Power BI / Analytics Tool:** (Mention your tool here, e.g., Power BI / Tableau / Excel)
 - **Data Modeling & DAX:** Custom calculations and dynamic parameters
 - **Data Visualization:** Interactive custom charts, gauge charts, and maps
 
